@@ -1,0 +1,30 @@
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
+.newr
+{padding: 10px 0px 195px 0px;}
+
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(243, 243, 238);
+}
+.row2{
+    min-height: 60px; background-color: rgb(250, 248, 252);
+}
+.box3{
+    min-height: 50px;
+   background-color: rgb(159, 186, 186);
+}
+.clg{
+   
+    background-color: rgb(210, 230, 230);
+    border: 1px solid rgb(159, 186, 186);
+}
+.back{
+    min-height: 200px;
+    background-color: antiquewhite;
+}
